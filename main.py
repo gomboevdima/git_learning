@@ -12,3 +12,7 @@ def sqr(num):
 
 def punch(o):
     return o + 1
+
+
+def hello():
+    return "hello"
