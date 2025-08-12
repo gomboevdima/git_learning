@@ -8,3 +8,7 @@ def pallindrom(l):
 
 def sqr(num):
     return num * num
+
+
+def punch(o):
+    return o + 1
