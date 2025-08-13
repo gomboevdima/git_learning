@@ -16,3 +16,7 @@ def punch(o):
 
 def hello():
     return "hello"
+
+
+def f1(gap):
+    return gap - 5 == abs(5 - gap)
